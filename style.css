@@ -8,3 +8,14 @@ h1{
 .colour{
     color: blue;
 }
+section{
+    display: flex;
+
+}
+.abir{
+
+    padding:auto ;
+}
+.abir img{
+    width:330px ;
+}
