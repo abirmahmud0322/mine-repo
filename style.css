@@ -14,11 +14,11 @@ h1{
     margin-bottom:px;
 }
 .abir{
- margin: 50px 20px;
-    padding:auto ;
+ margin:5% 5%  ;
+    padding: auto ;
 }
 .abir img{
-    margin:10px ;
+    margin: 10px ;
     width:500px ;
 }
 .inboxme{
@@ -36,8 +36,29 @@ h1{
 
     }
     .middle-section{
-    background-image: url(images/exp-bg.png);
+    background-image: url(images/dream-bg.png);
    background-repeat:no-repeat ;
+   background-position:right ;
 
-    }
-    
+ }
+ .exprience-area {
+  background-image:url(images/exp-bg.png);
+  background-repeat:no-repeat ;
+  background-position:left ;
+
+ }
+ .expriences{
+    margin:5% 5%  ;
+    padding:5% 5%  ;
+    box-shadow: 5px 5px 10px cornflowerblue;
+    border-radius:5px ; 
+    border:10px solid ;
+    border-image: repeating-linear-gradient(30deg, #4d9f0c, #9198e5, #4d9f0c 20px) 60;
+ } 
+ footer{ 
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:'Dancing Script' ;
+
+ }
+ 
